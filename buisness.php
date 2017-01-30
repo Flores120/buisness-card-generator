@@ -20,6 +20,7 @@
         <div class="col-md-4"></div>
         <div class="col-md-4">
             <div id="card">
+              <div class="header"></div>
                 <h3 class="card_header"><?php echo $card_header; ?></h3>
                 <h4 class="card_header"><?php echo $occupation; ?></h4>
                 <h5 class="card_text"><?php echo $slogan; ?></h5>

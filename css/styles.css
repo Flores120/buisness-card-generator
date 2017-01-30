@@ -1,0 +1,16 @@
+#card {
+  color: white;
+  background-color: #383838;
+  padding: 10px;
+  position: relative;
+  margin-top: 20px;
+  text-align: center;
+}
+.header {
+  height: 30px;
+  background-color: #F35555;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
